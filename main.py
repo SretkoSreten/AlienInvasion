@@ -14,7 +14,7 @@ FPS = 60
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 
-BACKGROUND_IMAGE = pygame.image.load('C:/Users/PC/Desktop/Python/games/alien invesion/images/background-black.png')
+BACKGROUND_IMAGE = pygame.image.load('*/images/background-black.png')
 BACKGROUND_SCREEN = pygame.transform.scale(BACKGROUND_IMAGE, (WIDTH, HEIGHT))
 
 class SpriteSheet:
